@@ -1,3 +1,5 @@
+#main.py
+
 import pygame
 import random
 from config import *
